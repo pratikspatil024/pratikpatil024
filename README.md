@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! Pratik here. 👋
 
 <!--
 **pratikpatil024/pratikpatil024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Test1<br>
 ![](https://komarev.com/ghpvc/?username=pratikpatil024)
+
+Test2<br>
+![](https://hit.yhype.me/github/profile?user_id=45988062)
